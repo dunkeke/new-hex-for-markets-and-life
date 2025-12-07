@@ -1,0 +1,7 @@
+streamlit 
+yfinance 
+pandas 
+random
+time
+textwrap  
+datetime
